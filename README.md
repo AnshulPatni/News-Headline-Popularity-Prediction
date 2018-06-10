@@ -1,4 +1,4 @@
-# News-Headline-Popularity-Prediction
+News-Headline-Popularity-Prediction
 ---
 
 ## 1. Introduction
